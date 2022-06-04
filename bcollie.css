@@ -1,0 +1,174 @@
+body{
+    width: 100%;
+    background-color: bisque;
+    margin: 0 auto;
+}
+
+.menu_principal {
+
+    width: 100%;
+    background-color: #252323;
+    height: 90px;
+    margin: 0 auto;
+}
+.maindaheader {
+    margin: 0 auto;
+    width: 1280px;
+    position: relative;
+}
+
+.logo {
+    float: left;
+    width: 70%;
+
+}
+
+.redes_sociais ul li {
+    display: inline-block;
+    margin-left: 20px;
+    float: left;
+} 
+
+.redes_sociais {
+    margin: 0 auto;
+    float: right;
+    width: 30%;
+    padding-top: 20px;
+
+}
+
+.header2 {
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #fffafa;
+    border-bottom: 4px solid #c9c9c9d8;
+    height: 50px;
+    
+}
+
+.menu ul li a {
+    margin: 0 auto;
+    color: #313131;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: fantasy;
+}
+.menu ul li {
+    margin: 0 auto;
+    display: inline-block;
+    margin-left: 300px;
+    color: #313131;
+    height: 44px;
+}
+
+.menu ul li:hover{
+    border-bottom: 4px solid #00bac6;
+
+}
+
+.menu ul li a:hover {
+    color: #00bac6;
+
+}
+
+.menu {
+    width: 70%;
+    float: left
+}
+
+.busca input {
+    height: 16px;
+    margin-top: 15px;
+}
+
+.busca {
+
+    width: 30%;
+    float: right
+    
+}
+
+h1 {
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 25px;
+    width: 70% ;
+    margin-left: 300px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.parte1 {
+    display: table;
+}
+
+.texto1 {
+    display: table-cell;
+    float: right;
+    
+}
+
+.imagem1 {
+    display: table-cell;
+    padding-top: 10px;
+    padding-right: 100px;
+    
+}
+
+
+.imagem3 {
+    display: table-cell;
+    float: right;
+    margin-right: 150px;
+    padding-bottom: 800px;
+}
+
+footer {
+    margin: 0 auto;
+    width: 100%;
+    background-color: #252323;
+    height: 90px;
+    margin-bottom: 0 auto;
+}
+
+footer p {
+    width: 50%;
+    font-size: 15px;
+    padding-left: 150px;
+    padding-bottom: 500px;
+    padding-top: 35px;
+    font-family: fantasy;
+    color: #fffafa;
+}
+
+footer p a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+footer p a:hover {
+    
+    color: rgb(0, 217, 255);
+}
